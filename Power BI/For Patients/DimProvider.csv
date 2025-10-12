@@ -1,0 +1,501 @@
+ProviderID,Specialty,Region,Facility
+PR0001,Psychiatry,North,South Clinic
+PR0002,Orthopedics,West,Main Hospital
+PR0003,Oncology,East,West Urgent Care
+PR0004,Neurology,West,Main Hospital
+PR0005,Pediatrics,North,East Medical Center
+PR0006,Dermatology,Central,West Urgent Care
+PR0007,Pediatrics,West,Central Health Plaza
+PR0008,Oncology,North,Main Hospital
+PR0009,OB/GYN,West,Central Health Plaza
+PR0010,Cardiology,Central,West Urgent Care
+PR0011,Radiology,East,Downtown Facility
+PR0012,Pediatrics,South,West Urgent Care
+PR0013,Radiology,Central,North Clinic
+PR0014,Radiology,West,Main Hospital
+PR0015,Surgery,East,West Urgent Care
+PR0016,Oncology,South,South Clinic
+PR0017,Psychiatry,North,South Clinic
+PR0018,Radiology,East,North Clinic
+PR0019,Primary Care,Central,West Urgent Care
+PR0020,Neurology,West,Main Hospital
+PR0021,Pediatrics,South,Downtown Facility
+PR0022,Oncology,East,Central Health Plaza
+PR0023,Dermatology,South,Main Hospital
+PR0024,Primary Care,South,Central Health Plaza
+PR0025,Pediatrics,East,Central Health Plaza
+PR0026,Oncology,West,Central Health Plaza
+PR0027,Pediatrics,North,South Clinic
+PR0028,OB/GYN,East,East Medical Center
+PR0029,Emergency Medicine,North,Downtown Facility
+PR0030,Dermatology,South,West Urgent Care
+PR0031,Cardiology,South,North Clinic
+PR0032,Orthopedics,West,North Clinic
+PR0033,Radiology,East,Central Health Plaza
+PR0034,Primary Care,East,West Urgent Care
+PR0035,Cardiology,Central,West Urgent Care
+PR0036,OB/GYN,West,Central Health Plaza
+PR0037,Oncology,East,North Clinic
+PR0038,Oncology,South,North Clinic
+PR0039,Oncology,West,Main Hospital
+PR0040,Radiology,Central,North Clinic
+PR0041,Primary Care,Central,Central Health Plaza
+PR0042,OB/GYN,South,South Clinic
+PR0043,OB/GYN,East,North Clinic
+PR0044,Oncology,South,Downtown Facility
+PR0045,Oncology,Central,North Clinic
+PR0046,Primary Care,West,South Clinic
+PR0047,Emergency Medicine,East,South Clinic
+PR0048,Neurology,South,West Urgent Care
+PR0049,Cardiology,East,Central Health Plaza
+PR0050,Surgery,West,Central Health Plaza
+PR0051,Pediatrics,Central,North Clinic
+PR0052,Cardiology,South,South Clinic
+PR0053,Pediatrics,Central,Main Hospital
+PR0054,OB/GYN,South,East Medical Center
+PR0055,Pediatrics,East,South Clinic
+PR0056,Surgery,North,East Medical Center
+PR0057,Radiology,South,Downtown Facility
+PR0058,Primary Care,South,Downtown Facility
+PR0059,Dermatology,Central,North Clinic
+PR0060,Orthopedics,North,Downtown Facility
+PR0061,Neurology,North,Downtown Facility
+PR0062,OB/GYN,North,Main Hospital
+PR0063,Surgery,North,Central Health Plaza
+PR0064,Orthopedics,West,Main Hospital
+PR0065,Primary Care,East,Central Health Plaza
+PR0066,Radiology,South,West Urgent Care
+PR0067,Radiology,East,Central Health Plaza
+PR0068,Oncology,East,Central Health Plaza
+PR0069,Pediatrics,East,Downtown Facility
+PR0070,Pediatrics,East,West Urgent Care
+PR0071,Dermatology,West,North Clinic
+PR0072,Radiology,Central,South Clinic
+PR0073,Primary Care,West,Main Hospital
+PR0074,Surgery,South,North Clinic
+PR0075,Oncology,North,North Clinic
+PR0076,Emergency Medicine,Central,Central Health Plaza
+PR0077,OB/GYN,South,South Clinic
+PR0078,Surgery,North,Main Hospital
+PR0079,Emergency Medicine,West,Central Health Plaza
+PR0080,OB/GYN,East,Central Health Plaza
+PR0081,Radiology,South,Main Hospital
+PR0082,OB/GYN,East,Main Hospital
+PR0083,OB/GYN,East,West Urgent Care
+PR0084,Psychiatry,East,Main Hospital
+PR0085,Radiology,Central,East Medical Center
+PR0086,Psychiatry,North,Central Health Plaza
+PR0087,Orthopedics,East,South Clinic
+PR0088,Psychiatry,South,Main Hospital
+PR0089,Dermatology,Central,Downtown Facility
+PR0090,OB/GYN,North,South Clinic
+PR0091,Neurology,South,South Clinic
+PR0092,Surgery,Central,East Medical Center
+PR0093,Dermatology,Central,Main Hospital
+PR0094,Dermatology,North,South Clinic
+PR0095,Pediatrics,East,Downtown Facility
+PR0096,Cardiology,South,Central Health Plaza
+PR0097,Neurology,West,Main Hospital
+PR0098,Psychiatry,East,East Medical Center
+PR0099,Cardiology,West,West Urgent Care
+PR0100,Neurology,South,West Urgent Care
+PR0101,OB/GYN,West,West Urgent Care
+PR0102,Neurology,West,West Urgent Care
+PR0103,Emergency Medicine,North,North Clinic
+PR0104,Oncology,North,South Clinic
+PR0105,Oncology,North,North Clinic
+PR0106,Psychiatry,West,Downtown Facility
+PR0107,Oncology,West,Main Hospital
+PR0108,Cardiology,Central,Central Health Plaza
+PR0109,Orthopedics,Central,West Urgent Care
+PR0110,Dermatology,North,Main Hospital
+PR0111,Neurology,Central,East Medical Center
+PR0112,Emergency Medicine,East,South Clinic
+PR0113,Surgery,Central,East Medical Center
+PR0114,Cardiology,Central,South Clinic
+PR0115,Radiology,East,East Medical Center
+PR0116,Emergency Medicine,East,Downtown Facility
+PR0117,Dermatology,South,East Medical Center
+PR0118,Dermatology,West,Central Health Plaza
+PR0119,Neurology,West,South Clinic
+PR0120,Pediatrics,North,Main Hospital
+PR0121,Primary Care,South,Downtown Facility
+PR0122,Pediatrics,South,East Medical Center
+PR0123,Oncology,South,Downtown Facility
+PR0124,Orthopedics,South,South Clinic
+PR0125,Cardiology,Central,South Clinic
+PR0126,Surgery,South,East Medical Center
+PR0127,Psychiatry,North,Main Hospital
+PR0128,Cardiology,West,Downtown Facility
+PR0129,Psychiatry,South,West Urgent Care
+PR0130,Emergency Medicine,West,Central Health Plaza
+PR0131,Dermatology,East,North Clinic
+PR0132,Oncology,North,West Urgent Care
+PR0133,Dermatology,East,East Medical Center
+PR0134,Primary Care,South,East Medical Center
+PR0135,Psychiatry,Central,Central Health Plaza
+PR0136,Primary Care,Central,Downtown Facility
+PR0137,Neurology,North,South Clinic
+PR0138,OB/GYN,South,Downtown Facility
+PR0139,Orthopedics,South,Central Health Plaza
+PR0140,Pediatrics,South,Main Hospital
+PR0141,Radiology,South,Central Health Plaza
+PR0142,Primary Care,North,Central Health Plaza
+PR0143,Pediatrics,North,Main Hospital
+PR0144,Neurology,North,East Medical Center
+PR0145,Cardiology,Central,Main Hospital
+PR0146,Dermatology,South,North Clinic
+PR0147,Surgery,East,Central Health Plaza
+PR0148,Surgery,West,Main Hospital
+PR0149,Radiology,North,Main Hospital
+PR0150,Surgery,North,Central Health Plaza
+PR0151,Radiology,Central,Downtown Facility
+PR0152,Radiology,Central,Downtown Facility
+PR0153,OB/GYN,West,South Clinic
+PR0154,Pediatrics,Central,East Medical Center
+PR0155,Radiology,North,Main Hospital
+PR0156,Emergency Medicine,South,Downtown Facility
+PR0157,Pediatrics,South,Downtown Facility
+PR0158,Oncology,Central,East Medical Center
+PR0159,Cardiology,West,Main Hospital
+PR0160,Primary Care,South,Main Hospital
+PR0161,Cardiology,North,Main Hospital
+PR0162,Orthopedics,South,Downtown Facility
+PR0163,Oncology,West,Downtown Facility
+PR0164,Surgery,Central,Downtown Facility
+PR0165,Emergency Medicine,East,South Clinic
+PR0166,Oncology,South,Main Hospital
+PR0167,Surgery,North,Downtown Facility
+PR0168,Neurology,West,West Urgent Care
+PR0169,OB/GYN,South,North Clinic
+PR0170,Orthopedics,East,Central Health Plaza
+PR0171,Emergency Medicine,Central,Central Health Plaza
+PR0172,Cardiology,South,Downtown Facility
+PR0173,Pediatrics,West,Main Hospital
+PR0174,Pediatrics,South,Central Health Plaza
+PR0175,Neurology,Central,West Urgent Care
+PR0176,Primary Care,West,East Medical Center
+PR0177,Emergency Medicine,East,South Clinic
+PR0178,Cardiology,North,East Medical Center
+PR0179,OB/GYN,Central,South Clinic
+PR0180,Emergency Medicine,South,East Medical Center
+PR0181,Cardiology,East,East Medical Center
+PR0182,Neurology,West,North Clinic
+PR0183,Radiology,West,North Clinic
+PR0184,Emergency Medicine,West,North Clinic
+PR0185,Dermatology,South,Downtown Facility
+PR0186,Emergency Medicine,Central,East Medical Center
+PR0187,Primary Care,East,Downtown Facility
+PR0188,Neurology,West,Central Health Plaza
+PR0189,Primary Care,North,Downtown Facility
+PR0190,Orthopedics,Central,South Clinic
+PR0191,Surgery,East,North Clinic
+PR0192,Oncology,East,South Clinic
+PR0193,OB/GYN,West,South Clinic
+PR0194,Cardiology,North,Main Hospital
+PR0195,Neurology,West,West Urgent Care
+PR0196,Dermatology,Central,East Medical Center
+PR0197,OB/GYN,South,West Urgent Care
+PR0198,Dermatology,Central,East Medical Center
+PR0199,Oncology,North,South Clinic
+PR0200,Orthopedics,South,Downtown Facility
+PR0201,Pediatrics,East,West Urgent Care
+PR0202,Neurology,West,Main Hospital
+PR0203,Emergency Medicine,Central,West Urgent Care
+PR0204,Psychiatry,West,Central Health Plaza
+PR0205,Radiology,Central,West Urgent Care
+PR0206,Primary Care,West,Main Hospital
+PR0207,Emergency Medicine,South,Main Hospital
+PR0208,Cardiology,West,North Clinic
+PR0209,OB/GYN,North,Central Health Plaza
+PR0210,Primary Care,North,East Medical Center
+PR0211,Neurology,West,South Clinic
+PR0212,Psychiatry,East,West Urgent Care
+PR0213,Emergency Medicine,North,West Urgent Care
+PR0214,Neurology,Central,South Clinic
+PR0215,Neurology,West,Main Hospital
+PR0216,Oncology,West,Downtown Facility
+PR0217,Radiology,North,Main Hospital
+PR0218,Radiology,East,West Urgent Care
+PR0219,Neurology,Central,West Urgent Care
+PR0220,Primary Care,North,Downtown Facility
+PR0221,Orthopedics,North,South Clinic
+PR0222,Neurology,South,South Clinic
+PR0223,Psychiatry,North,Downtown Facility
+PR0224,Emergency Medicine,Central,Downtown Facility
+PR0225,Cardiology,South,Central Health Plaza
+PR0226,Dermatology,East,East Medical Center
+PR0227,Surgery,East,Downtown Facility
+PR0228,Dermatology,North,Main Hospital
+PR0229,Orthopedics,Central,North Clinic
+PR0230,Pediatrics,East,Central Health Plaza
+PR0231,Emergency Medicine,Central,North Clinic
+PR0232,Cardiology,Central,Central Health Plaza
+PR0233,Orthopedics,South,South Clinic
+PR0234,Cardiology,North,East Medical Center
+PR0235,Emergency Medicine,Central,West Urgent Care
+PR0236,Psychiatry,Central,South Clinic
+PR0237,Cardiology,Central,South Clinic
+PR0238,Neurology,North,Central Health Plaza
+PR0239,Dermatology,South,South Clinic
+PR0240,Primary Care,Central,North Clinic
+PR0241,OB/GYN,West,South Clinic
+PR0242,Pediatrics,South,East Medical Center
+PR0243,Emergency Medicine,North,North Clinic
+PR0244,Surgery,East,East Medical Center
+PR0245,Primary Care,Central,Central Health Plaza
+PR0246,Oncology,West,North Clinic
+PR0247,Surgery,East,Central Health Plaza
+PR0248,Dermatology,East,Downtown Facility
+PR0249,Primary Care,Central,Downtown Facility
+PR0250,Psychiatry,Central,East Medical Center
+PR0251,Primary Care,East,Main Hospital
+PR0252,Cardiology,West,Main Hospital
+PR0253,Neurology,South,North Clinic
+PR0254,Primary Care,Central,Main Hospital
+PR0255,Primary Care,Central,West Urgent Care
+PR0256,Pediatrics,North,Central Health Plaza
+PR0257,Radiology,Central,East Medical Center
+PR0258,Primary Care,North,North Clinic
+PR0259,Neurology,East,Central Health Plaza
+PR0260,Emergency Medicine,West,Main Hospital
+PR0261,Radiology,North,North Clinic
+PR0262,Neurology,North,West Urgent Care
+PR0263,Cardiology,South,North Clinic
+PR0264,Radiology,East,North Clinic
+PR0265,Orthopedics,North,Downtown Facility
+PR0266,Orthopedics,North,Downtown Facility
+PR0267,Orthopedics,East,Central Health Plaza
+PR0268,Orthopedics,Central,South Clinic
+PR0269,Radiology,West,South Clinic
+PR0270,Dermatology,East,South Clinic
+PR0271,Emergency Medicine,South,South Clinic
+PR0272,Primary Care,South,East Medical Center
+PR0273,Dermatology,West,West Urgent Care
+PR0274,Dermatology,South,Downtown Facility
+PR0275,Psychiatry,East,North Clinic
+PR0276,Radiology,Central,Downtown Facility
+PR0277,Dermatology,South,Central Health Plaza
+PR0278,Neurology,East,West Urgent Care
+PR0279,Dermatology,South,North Clinic
+PR0280,Neurology,North,Central Health Plaza
+PR0281,Orthopedics,North,South Clinic
+PR0282,Orthopedics,Central,East Medical Center
+PR0283,Psychiatry,North,North Clinic
+PR0284,Surgery,North,North Clinic
+PR0285,Primary Care,South,Main Hospital
+PR0286,Orthopedics,South,East Medical Center
+PR0287,Cardiology,West,East Medical Center
+PR0288,Emergency Medicine,Central,East Medical Center
+PR0289,Radiology,North,West Urgent Care
+PR0290,Pediatrics,West,South Clinic
+PR0291,Psychiatry,South,Main Hospital
+PR0292,Pediatrics,West,West Urgent Care
+PR0293,Dermatology,North,Central Health Plaza
+PR0294,Orthopedics,West,South Clinic
+PR0295,Dermatology,East,Downtown Facility
+PR0296,Psychiatry,Central,North Clinic
+PR0297,Oncology,North,Main Hospital
+PR0298,Psychiatry,East,West Urgent Care
+PR0299,Oncology,West,Main Hospital
+PR0300,Psychiatry,North,South Clinic
+PR0301,Neurology,West,Central Health Plaza
+PR0302,Neurology,Central,Central Health Plaza
+PR0303,Primary Care,Central,West Urgent Care
+PR0304,Psychiatry,South,Downtown Facility
+PR0305,Radiology,East,Central Health Plaza
+PR0306,Cardiology,Central,West Urgent Care
+PR0307,Pediatrics,East,Main Hospital
+PR0308,Pediatrics,West,North Clinic
+PR0309,Surgery,East,North Clinic
+PR0310,Emergency Medicine,North,North Clinic
+PR0311,Dermatology,South,South Clinic
+PR0312,Oncology,East,Main Hospital
+PR0313,Orthopedics,East,Central Health Plaza
+PR0314,Psychiatry,Central,South Clinic
+PR0315,Cardiology,North,South Clinic
+PR0316,Neurology,Central,Central Health Plaza
+PR0317,Pediatrics,East,North Clinic
+PR0318,Cardiology,West,North Clinic
+PR0319,OB/GYN,Central,North Clinic
+PR0320,Radiology,Central,Downtown Facility
+PR0321,Radiology,North,Central Health Plaza
+PR0322,Neurology,Central,Main Hospital
+PR0323,Emergency Medicine,Central,Main Hospital
+PR0324,Dermatology,South,Central Health Plaza
+PR0325,Dermatology,East,North Clinic
+PR0326,Cardiology,North,South Clinic
+PR0327,Surgery,Central,Main Hospital
+PR0328,Oncology,East,West Urgent Care
+PR0329,Primary Care,North,South Clinic
+PR0330,Primary Care,Central,Central Health Plaza
+PR0331,Dermatology,West,South Clinic
+PR0332,Orthopedics,South,Downtown Facility
+PR0333,Oncology,North,East Medical Center
+PR0334,OB/GYN,West,Main Hospital
+PR0335,Radiology,North,Downtown Facility
+PR0336,Cardiology,North,West Urgent Care
+PR0337,Dermatology,South,Main Hospital
+PR0338,Neurology,West,Downtown Facility
+PR0339,Emergency Medicine,Central,South Clinic
+PR0340,Surgery,East,Central Health Plaza
+PR0341,Dermatology,West,Main Hospital
+PR0342,Dermatology,North,South Clinic
+PR0343,Dermatology,West,West Urgent Care
+PR0344,Psychiatry,East,South Clinic
+PR0345,OB/GYN,West,Downtown Facility
+PR0346,Dermatology,East,Central Health Plaza
+PR0347,Radiology,South,North Clinic
+PR0348,Primary Care,North,Central Health Plaza
+PR0349,Pediatrics,Central,South Clinic
+PR0350,Neurology,West,North Clinic
+PR0351,Radiology,South,West Urgent Care
+PR0352,Neurology,West,West Urgent Care
+PR0353,Radiology,South,South Clinic
+PR0354,Surgery,East,North Clinic
+PR0355,Pediatrics,South,South Clinic
+PR0356,Surgery,East,Downtown Facility
+PR0357,Psychiatry,South,West Urgent Care
+PR0358,Pediatrics,West,North Clinic
+PR0359,Pediatrics,Central,East Medical Center
+PR0360,OB/GYN,North,East Medical Center
+PR0361,Radiology,Central,West Urgent Care
+PR0362,Psychiatry,South,Central Health Plaza
+PR0363,Dermatology,East,North Clinic
+PR0364,OB/GYN,West,South Clinic
+PR0365,Psychiatry,North,Central Health Plaza
+PR0366,Pediatrics,North,Central Health Plaza
+PR0367,Oncology,West,Downtown Facility
+PR0368,Pediatrics,South,West Urgent Care
+PR0369,Dermatology,North,West Urgent Care
+PR0370,Pediatrics,West,Main Hospital
+PR0371,Cardiology,South,Central Health Plaza
+PR0372,Radiology,West,Central Health Plaza
+PR0373,Psychiatry,North,Downtown Facility
+PR0374,Radiology,Central,South Clinic
+PR0375,Pediatrics,North,South Clinic
+PR0376,Dermatology,North,East Medical Center
+PR0377,OB/GYN,Central,Main Hospital
+PR0378,Psychiatry,South,Central Health Plaza
+PR0379,Orthopedics,West,South Clinic
+PR0380,Emergency Medicine,South,Central Health Plaza
+PR0381,Orthopedics,South,South Clinic
+PR0382,Emergency Medicine,West,Downtown Facility
+PR0383,Orthopedics,South,East Medical Center
+PR0384,Orthopedics,East,Main Hospital
+PR0385,Cardiology,North,Main Hospital
+PR0386,Neurology,East,North Clinic
+PR0387,Pediatrics,West,Central Health Plaza
+PR0388,Primary Care,Central,Downtown Facility
+PR0389,Pediatrics,Central,West Urgent Care
+PR0390,OB/GYN,West,North Clinic
+PR0391,Cardiology,West,Main Hospital
+PR0392,Primary Care,South,Central Health Plaza
+PR0393,OB/GYN,North,East Medical Center
+PR0394,Pediatrics,East,North Clinic
+PR0395,Orthopedics,West,East Medical Center
+PR0396,Cardiology,Central,Main Hospital
+PR0397,Cardiology,North,Central Health Plaza
+PR0398,Surgery,North,East Medical Center
+PR0399,Cardiology,South,North Clinic
+PR0400,Psychiatry,Central,Main Hospital
+PR0401,Primary Care,North,Main Hospital
+PR0402,Surgery,Central,North Clinic
+PR0403,Orthopedics,East,Central Health Plaza
+PR0404,Psychiatry,Central,West Urgent Care
+PR0405,Pediatrics,North,North Clinic
+PR0406,OB/GYN,Central,North Clinic
+PR0407,Cardiology,Central,Central Health Plaza
+PR0408,Oncology,Central,South Clinic
+PR0409,OB/GYN,North,Main Hospital
+PR0410,Orthopedics,East,South Clinic
+PR0411,Oncology,Central,South Clinic
+PR0412,Orthopedics,East,South Clinic
+PR0413,Emergency Medicine,North,East Medical Center
+PR0414,Psychiatry,West,Downtown Facility
+PR0415,OB/GYN,Central,North Clinic
+PR0416,Orthopedics,East,South Clinic
+PR0417,Neurology,Central,East Medical Center
+PR0418,OB/GYN,South,East Medical Center
+PR0419,Orthopedics,South,Downtown Facility
+PR0420,Cardiology,North,Main Hospital
+PR0421,Oncology,East,North Clinic
+PR0422,Cardiology,East,Central Health Plaza
+PR0423,Orthopedics,Central,West Urgent Care
+PR0424,Surgery,South,North Clinic
+PR0425,Primary Care,Central,East Medical Center
+PR0426,Primary Care,Central,North Clinic
+PR0427,Primary Care,North,Main Hospital
+PR0428,Emergency Medicine,West,North Clinic
+PR0429,Orthopedics,North,Downtown Facility
+PR0430,Pediatrics,North,East Medical Center
+PR0431,Emergency Medicine,North,Downtown Facility
+PR0432,Orthopedics,Central,East Medical Center
+PR0433,Dermatology,Central,South Clinic
+PR0434,Cardiology,Central,East Medical Center
+PR0435,OB/GYN,Central,Main Hospital
+PR0436,Dermatology,South,East Medical Center
+PR0437,Radiology,East,North Clinic
+PR0438,Primary Care,South,Central Health Plaza
+PR0439,Dermatology,East,Central Health Plaza
+PR0440,Dermatology,Central,Central Health Plaza
+PR0441,Radiology,South,West Urgent Care
+PR0442,Orthopedics,East,East Medical Center
+PR0443,Psychiatry,West,Central Health Plaza
+PR0444,OB/GYN,North,Main Hospital
+PR0445,Emergency Medicine,East,Downtown Facility
+PR0446,Emergency Medicine,South,Main Hospital
+PR0447,Orthopedics,South,Central Health Plaza
+PR0448,Dermatology,West,Main Hospital
+PR0449,Psychiatry,East,Central Health Plaza
+PR0450,Emergency Medicine,North,Main Hospital
+PR0451,Orthopedics,South,North Clinic
+PR0452,Neurology,Central,South Clinic
+PR0453,Neurology,Central,Downtown Facility
+PR0454,Neurology,East,West Urgent Care
+PR0455,Neurology,West,Downtown Facility
+PR0456,Oncology,North,Central Health Plaza
+PR0457,Emergency Medicine,East,Downtown Facility
+PR0458,Neurology,East,South Clinic
+PR0459,Radiology,North,South Clinic
+PR0460,Radiology,South,South Clinic
+PR0461,Oncology,Central,North Clinic
+PR0462,Oncology,South,Downtown Facility
+PR0463,Radiology,West,Downtown Facility
+PR0464,Emergency Medicine,North,West Urgent Care
+PR0465,Surgery,South,East Medical Center
+PR0466,Dermatology,East,East Medical Center
+PR0467,Oncology,East,Central Health Plaza
+PR0468,Radiology,West,West Urgent Care
+PR0469,Surgery,West,West Urgent Care
+PR0470,Cardiology,North,Main Hospital
+PR0471,Orthopedics,South,Downtown Facility
+PR0472,Primary Care,East,South Clinic
+PR0473,Radiology,North,Main Hospital
+PR0474,OB/GYN,North,North Clinic
+PR0475,Emergency Medicine,East,North Clinic
+PR0476,Radiology,South,West Urgent Care
+PR0477,Oncology,Central,North Clinic
+PR0478,Orthopedics,West,West Urgent Care
+PR0479,Psychiatry,South,Downtown Facility
+PR0480,Primary Care,Central,East Medical Center
+PR0481,Pediatrics,Central,South Clinic
+PR0482,Pediatrics,East,Downtown Facility
+PR0483,Neurology,Central,North Clinic
+PR0484,Dermatology,West,Main Hospital
+PR0485,Orthopedics,North,North Clinic
+PR0486,Dermatology,South,Central Health Plaza
+PR0487,OB/GYN,West,South Clinic
+PR0488,OB/GYN,Central,North Clinic
+PR0489,Orthopedics,North,West Urgent Care
+PR0490,Radiology,North,North Clinic
+PR0491,Emergency Medicine,Central,East Medical Center
+PR0492,Orthopedics,West,Downtown Facility
+PR0493,Orthopedics,Central,East Medical Center
+PR0494,Neurology,South,North Clinic
+PR0495,Primary Care,North,Main Hospital
+PR0496,Emergency Medicine,East,North Clinic
+PR0497,Radiology,North,West Urgent Care
+PR0498,OB/GYN,Central,West Urgent Care
+PR0499,Psychiatry,Central,Downtown Facility
+PR0500,OB/GYN,East,Downtown Facility

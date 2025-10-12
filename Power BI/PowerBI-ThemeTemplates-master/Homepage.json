@@ -1,0 +1,39 @@
+{
+  "name": "ExecutiveDashboardTheme",
+  "dataColors": ["#FF5733", "#C70039", "#900C3F", "#581845", "#FFC300", "#DAF7A6"],
+  "background": "#1E1E1E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF5733",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontFamily": "Segoe UI",
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "cardTitleText": {
+      "*": {
+        "*": [
+          {
+            "fontSize": { "size": 14 },
+            "color": { "solid": { "color": "#FFC300" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "*": [
+          {
+            "background": { "solid": { "color": "#2E2E2E" } },
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    }
+  }
+}

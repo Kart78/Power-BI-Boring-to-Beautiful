@@ -1,0 +1,801 @@
+ComplaintID,PatientID,Date,Category,Resolved
+C000001,P005667,2023-10-23,Poor Communication,True
+C000002,P004080,2024-12-14,Staff Attitude,True
+C000003,P005774,2023-04-05,Poor Communication,True
+C000004,P001460,2024-10-21,Appointment Scheduling,True
+C000005,P007399,2025-03-09,Medical Care Quality,True
+C000006,P001564,2024-02-21,Billing Confusion,True
+C000007,P004828,2023-08-06,Staff Attitude,True
+C000008,P002679,2023-04-25,Appointment Scheduling,True
+C000009,P009269,2025-02-10,Poor Communication,False
+C000010,P005971,2023-11-19,Appointment Scheduling,True
+C000011,P006351,2025-05-17,Billing Confusion,True
+C000012,P008202,2024-08-23,Medical Care Quality,True
+C000013,P007621,2024-07-30,Billing Confusion,True
+C000014,P005462,2023-05-16,Billing Confusion,True
+C000015,P004467,2025-08-17,Long Wait Time,True
+C000016,P007102,2025-08-16,Billing Confusion,True
+C000017,P003202,2025-06-03,Poor Communication,True
+C000018,P005022,2025-04-29,Staff Attitude,True
+C000019,P008963,2023-06-29,Poor Communication,True
+C000020,P000086,2025-08-18,Medical Care Quality,True
+C000021,P004453,2025-05-25,Appointment Scheduling,False
+C000022,P000160,2025-12-28,Medical Care Quality,True
+C000023,P007026,2025-06-15,Billing Confusion,True
+C000024,P001292,2024-01-18,Appointment Scheduling,True
+C000025,P004631,2025-05-04,Poor Communication,True
+C000026,P000963,2023-09-14,Long Wait Time,True
+C000027,P004872,2023-02-10,Billing Confusion,True
+C000028,P001178,2024-09-09,Staff Attitude,True
+C000029,P001759,2023-12-15,Other,True
+C000030,P001062,2025-10-05,Medical Care Quality,True
+C000031,P008084,2025-01-21,Appointment Scheduling,True
+C000032,P009770,2023-06-30,Poor Communication,True
+C000033,P006928,2023-04-29,Staff Attitude,True
+C000034,P000640,2023-07-11,Poor Communication,False
+C000035,P002013,2024-09-24,Long Wait Time,True
+C000036,P008522,2023-05-10,Poor Communication,True
+C000037,P002058,2023-04-07,Staff Attitude,True
+C000038,P004563,2023-03-01,Appointment Scheduling,True
+C000039,P005336,2025-12-15,Billing Confusion,True
+C000040,P004917,2023-11-04,Cultural Insensitivity,True
+C000041,P000057,2024-12-05,Other,True
+C000042,P008827,2024-01-02,Staff Attitude,True
+C000043,P006878,2024-03-09,Staff Attitude,True
+C000044,P002967,2023-04-07,Appointment Scheduling,True
+C000045,P007039,2025-03-03,Long Wait Time,True
+C000046,P009961,2024-12-06,Long Wait Time,True
+C000047,P001103,2023-07-18,Billing Confusion,True
+C000048,P006432,2023-08-26,Long Wait Time,False
+C000049,P004838,2025-09-07,Appointment Scheduling,True
+C000050,P008763,2025-04-26,Staff Attitude,True
+C000051,P001210,2023-11-26,Facility Cleanliness,True
+C000052,P003209,2024-10-27,Long Wait Time,True
+C000053,P008635,2023-09-01,Billing Confusion,True
+C000054,P009550,2024-10-17,Poor Communication,True
+C000055,P000147,2023-11-08,Billing Confusion,True
+C000056,P004660,2025-10-31,Long Wait Time,True
+C000057,P005125,2025-11-18,Long Wait Time,False
+C000058,P001597,2023-02-23,Poor Communication,True
+C000059,P006093,2023-03-28,Billing Confusion,True
+C000060,P003120,2024-09-26,Staff Attitude,True
+C000061,P004813,2025-05-03,Billing Confusion,True
+C000062,P004665,2023-02-20,Other,True
+C000063,P002657,2025-01-16,Appointment Scheduling,True
+C000064,P004384,2024-07-15,Cultural Insensitivity,False
+C000065,P005425,2025-05-07,Poor Communication,True
+C000066,P005416,2023-02-19,Cultural Insensitivity,True
+C000067,P004703,2025-02-03,Long Wait Time,True
+C000068,P008155,2023-03-30,Long Wait Time,True
+C000069,P008683,2025-11-02,Long Wait Time,True
+C000070,P008343,2024-09-07,Facility Cleanliness,True
+C000071,P009928,2024-11-15,Appointment Scheduling,True
+C000072,P007012,2023-06-28,Long Wait Time,True
+C000073,P005814,2025-08-30,Poor Communication,True
+C000074,P001044,2023-01-30,Billing Confusion,True
+C000075,P003505,2024-06-14,Appointment Scheduling,True
+C000076,P005887,2023-09-15,Billing Confusion,True
+C000077,P003438,2023-04-12,Long Wait Time,True
+C000078,P003949,2024-08-02,Appointment Scheduling,True
+C000079,P001024,2025-09-08,Staff Attitude,False
+C000080,P002572,2024-03-07,Long Wait Time,True
+C000081,P002276,2023-02-14,Billing Confusion,False
+C000082,P005358,2025-12-08,Billing Confusion,True
+C000083,P000927,2025-06-20,Long Wait Time,True
+C000084,P003797,2025-06-22,Billing Confusion,False
+C000085,P002673,2024-11-09,Long Wait Time,False
+C000086,P004744,2023-09-17,Medical Care Quality,False
+C000087,P005858,2025-03-02,Staff Attitude,False
+C000088,P004162,2024-04-04,Appointment Scheduling,True
+C000089,P001501,2023-11-26,Other,True
+C000090,P004024,2023-12-05,Long Wait Time,True
+C000091,P001506,2025-12-05,Long Wait Time,True
+C000092,P008426,2024-06-04,Poor Communication,True
+C000093,P002266,2024-08-28,Appointment Scheduling,True
+C000094,P001597,2023-08-25,Other,True
+C000095,P009796,2024-04-22,Appointment Scheduling,True
+C000096,P006294,2024-04-17,Billing Confusion,False
+C000097,P002553,2024-01-29,Poor Communication,True
+C000098,P008805,2024-10-20,Billing Confusion,True
+C000099,P002138,2023-04-22,Poor Communication,False
+C000100,P000626,2023-12-25,Staff Attitude,True
+C000101,P006723,2023-06-01,Billing Confusion,True
+C000102,P006368,2023-05-03,Poor Communication,True
+C000103,P001605,2024-03-17,Staff Attitude,True
+C000104,P000083,2025-09-10,Billing Confusion,True
+C000105,P005719,2025-09-03,Staff Attitude,True
+C000106,P001290,2023-01-31,Facility Cleanliness,False
+C000107,P001792,2023-02-27,Medical Care Quality,True
+C000108,P002657,2023-10-18,Billing Confusion,True
+C000109,P001084,2024-05-03,Long Wait Time,True
+C000110,P004440,2024-03-15,Poor Communication,True
+C000111,P003026,2024-10-12,Billing Confusion,True
+C000112,P003709,2023-10-13,Staff Attitude,True
+C000113,P007063,2024-02-11,Poor Communication,False
+C000114,P003055,2024-11-08,Medical Care Quality,True
+C000115,P003204,2023-02-18,Billing Confusion,True
+C000116,P002463,2025-06-13,Billing Confusion,True
+C000117,P009078,2023-12-23,Staff Attitude,True
+C000118,P001262,2025-08-17,Billing Confusion,True
+C000119,P004247,2024-09-27,Billing Confusion,True
+C000120,P009480,2023-06-19,Long Wait Time,True
+C000121,P002884,2025-01-27,Long Wait Time,True
+C000122,P007865,2025-08-27,Billing Confusion,True
+C000123,P002593,2023-04-20,Long Wait Time,True
+C000124,P004477,2025-11-06,Long Wait Time,True
+C000125,P009843,2025-12-23,Poor Communication,True
+C000126,P007378,2024-02-18,Long Wait Time,True
+C000127,P004744,2023-12-09,Billing Confusion,True
+C000128,P000485,2025-11-05,Long Wait Time,True
+C000129,P007771,2025-03-16,Facility Cleanliness,True
+C000130,P004829,2023-03-15,Long Wait Time,True
+C000131,P009752,2024-06-24,Poor Communication,True
+C000132,P002211,2023-07-16,Long Wait Time,True
+C000133,P007269,2025-02-18,Facility Cleanliness,True
+C000134,P000817,2023-07-24,Staff Attitude,True
+C000135,P001832,2024-09-30,Staff Attitude,True
+C000136,P008059,2024-04-05,Appointment Scheduling,True
+C000137,P006936,2024-11-30,Other,True
+C000138,P008017,2024-07-26,Facility Cleanliness,False
+C000139,P003432,2024-03-26,Billing Confusion,True
+C000140,P006666,2024-09-15,Billing Confusion,True
+C000141,P002767,2023-08-18,Billing Confusion,True
+C000142,P002791,2025-10-27,Billing Confusion,True
+C000143,P002593,2023-11-06,Poor Communication,True
+C000144,P003424,2024-09-21,Facility Cleanliness,True
+C000145,P002266,2024-12-09,Poor Communication,True
+C000146,P009810,2024-10-07,Billing Confusion,True
+C000147,P009568,2025-07-15,Medical Care Quality,True
+C000148,P006476,2024-08-09,Poor Communication,True
+C000149,P004286,2025-05-11,Billing Confusion,True
+C000150,P001152,2024-08-27,Long Wait Time,True
+C000151,P007615,2024-04-21,Billing Confusion,True
+C000152,P007616,2024-02-06,Long Wait Time,True
+C000153,P008518,2024-04-17,Billing Confusion,True
+C000154,P007532,2023-04-26,Appointment Scheduling,True
+C000155,P006392,2024-07-11,Poor Communication,True
+C000156,P004660,2023-02-02,Staff Attitude,True
+C000157,P007639,2024-03-20,Long Wait Time,False
+C000158,P001701,2023-04-01,Billing Confusion,True
+C000159,P003440,2024-11-25,Poor Communication,True
+C000160,P009052,2023-06-16,Staff Attitude,True
+C000161,P006881,2025-10-22,Long Wait Time,True
+C000162,P005939,2023-08-31,Medical Care Quality,True
+C000163,P003026,2025-01-07,Long Wait Time,True
+C000164,P007711,2025-11-17,Long Wait Time,True
+C000165,P001676,2024-12-17,Billing Confusion,False
+C000166,P002123,2024-04-28,Billing Confusion,True
+C000167,P009973,2024-12-03,Facility Cleanliness,True
+C000168,P004921,2023-01-07,Billing Confusion,True
+C000169,P004272,2025-05-30,Appointment Scheduling,True
+C000170,P006262,2023-09-14,Billing Confusion,True
+C000171,P005785,2023-11-08,Long Wait Time,False
+C000172,P002331,2025-01-08,Billing Confusion,True
+C000173,P003532,2023-03-10,Staff Attitude,True
+C000174,P008146,2024-07-19,Poor Communication,True
+C000175,P004972,2023-05-10,Billing Confusion,True
+C000176,P001048,2024-05-30,Billing Confusion,True
+C000177,P005093,2024-05-06,Long Wait Time,True
+C000178,P006272,2025-06-26,Cultural Insensitivity,False
+C000179,P000532,2024-02-06,Billing Confusion,True
+C000180,P001871,2024-05-02,Medical Care Quality,True
+C000181,P007450,2024-03-13,Billing Confusion,True
+C000182,P001603,2023-05-18,Long Wait Time,False
+C000183,P003018,2023-12-27,Appointment Scheduling,True
+C000184,P005609,2024-02-24,Staff Attitude,True
+C000185,P005990,2025-12-22,Billing Confusion,True
+C000186,P003692,2025-02-19,Long Wait Time,False
+C000187,P001099,2024-12-23,Appointment Scheduling,True
+C000188,P008088,2024-11-19,Long Wait Time,True
+C000189,P001630,2025-04-05,Billing Confusion,True
+C000190,P005158,2024-11-29,Staff Attitude,False
+C000191,P008418,2023-05-02,Long Wait Time,True
+C000192,P005223,2023-11-17,Appointment Scheduling,True
+C000193,P008680,2023-10-08,Poor Communication,True
+C000194,P005424,2023-01-20,Poor Communication,False
+C000195,P002753,2025-12-24,Poor Communication,True
+C000196,P008671,2023-02-06,Cultural Insensitivity,True
+C000197,P005168,2025-02-05,Poor Communication,False
+C000198,P007657,2024-01-25,Other,True
+C000199,P005878,2024-08-31,Long Wait Time,True
+C000200,P001764,2025-10-12,Poor Communication,True
+C000201,P005432,2023-11-10,Appointment Scheduling,False
+C000202,P009397,2025-07-10,Billing Confusion,True
+C000203,P007102,2025-01-26,Billing Confusion,False
+C000204,P004937,2023-05-14,Long Wait Time,True
+C000205,P003296,2024-03-10,Long Wait Time,True
+C000206,P003920,2024-01-13,Poor Communication,True
+C000207,P001434,2024-07-27,Billing Confusion,False
+C000208,P008395,2025-03-22,Poor Communication,True
+C000209,P007866,2024-10-28,Long Wait Time,True
+C000210,P004869,2023-06-05,Appointment Scheduling,True
+C000211,P003632,2024-01-22,Staff Attitude,True
+C000212,P005186,2025-01-27,Billing Confusion,True
+C000213,P001513,2023-07-23,Long Wait Time,True
+C000214,P006506,2024-06-06,Cultural Insensitivity,False
+C000215,P002089,2025-06-09,Long Wait Time,True
+C000216,P008235,2023-08-21,Billing Confusion,False
+C000217,P004495,2023-12-09,Medical Care Quality,True
+C000218,P001411,2023-04-02,Billing Confusion,True
+C000219,P001380,2023-08-23,Medical Care Quality,True
+C000220,P008985,2024-06-27,Billing Confusion,True
+C000221,P006186,2023-03-25,Billing Confusion,True
+C000222,P009244,2025-07-17,Appointment Scheduling,True
+C000223,P000879,2025-11-03,Poor Communication,True
+C000224,P002229,2024-04-07,Appointment Scheduling,True
+C000225,P005020,2024-07-16,Appointment Scheduling,False
+C000226,P007149,2023-02-07,Billing Confusion,True
+C000227,P007816,2023-01-12,Billing Confusion,True
+C000228,P005296,2025-07-10,Billing Confusion,True
+C000229,P001210,2025-06-29,Billing Confusion,True
+C000230,P004137,2023-06-04,Billing Confusion,True
+C000231,P008890,2025-05-12,Billing Confusion,True
+C000232,P009277,2023-05-03,Appointment Scheduling,True
+C000233,P007549,2023-07-24,Long Wait Time,True
+C000234,P007420,2023-03-05,Billing Confusion,True
+C000235,P009092,2024-03-27,Billing Confusion,True
+C000236,P000913,2023-08-13,Poor Communication,True
+C000237,P005257,2025-06-22,Billing Confusion,True
+C000238,P009915,2024-05-09,Medical Care Quality,True
+C000239,P003394,2024-09-24,Poor Communication,True
+C000240,P003484,2025-05-31,Long Wait Time,True
+C000241,P001092,2024-02-20,Long Wait Time,True
+C000242,P000528,2023-12-25,Billing Confusion,True
+C000243,P006782,2023-07-15,Poor Communication,False
+C000244,P002390,2025-01-23,Medical Care Quality,True
+C000245,P000663,2025-01-06,Long Wait Time,True
+C000246,P007068,2024-03-29,Long Wait Time,False
+C000247,P003650,2024-05-08,Appointment Scheduling,False
+C000248,P006653,2025-08-08,Cultural Insensitivity,True
+C000249,P005567,2024-10-18,Other,True
+C000250,P009488,2024-02-18,Long Wait Time,False
+C000251,P000208,2023-07-28,Long Wait Time,True
+C000252,P000048,2025-10-09,Billing Confusion,False
+C000253,P004658,2024-11-01,Billing Confusion,True
+C000254,P002463,2023-09-26,Billing Confusion,True
+C000255,P004446,2025-02-08,Medical Care Quality,True
+C000256,P006896,2023-07-24,Appointment Scheduling,True
+C000257,P005686,2024-01-14,Appointment Scheduling,False
+C000258,P009237,2023-11-21,Long Wait Time,True
+C000259,P005555,2024-06-07,Billing Confusion,True
+C000260,P009297,2023-02-17,Poor Communication,True
+C000261,P008936,2023-04-07,Poor Communication,True
+C000262,P008634,2023-03-09,Appointment Scheduling,False
+C000263,P008603,2023-10-03,Billing Confusion,False
+C000264,P009078,2024-10-02,Long Wait Time,True
+C000265,P001450,2024-02-09,Appointment Scheduling,False
+C000266,P008888,2025-10-08,Appointment Scheduling,True
+C000267,P002784,2024-11-15,Appointment Scheduling,True
+C000268,P009622,2023-06-21,Billing Confusion,True
+C000269,P007837,2025-12-27,Poor Communication,True
+C000270,P007840,2024-04-11,Appointment Scheduling,True
+C000271,P008613,2024-12-04,Billing Confusion,True
+C000272,P009214,2023-03-20,Staff Attitude,False
+C000273,P007147,2023-04-03,Long Wait Time,True
+C000274,P005826,2024-01-14,Long Wait Time,True
+C000275,P004930,2023-10-25,Billing Confusion,True
+C000276,P001138,2025-08-26,Billing Confusion,True
+C000277,P007802,2024-07-01,Staff Attitude,True
+C000278,P002586,2023-01-27,Poor Communication,True
+C000279,P001191,2025-12-22,Long Wait Time,True
+C000280,P007879,2025-10-02,Long Wait Time,True
+C000281,P009370,2025-01-31,Appointment Scheduling,True
+C000282,P001437,2025-09-26,Staff Attitude,False
+C000283,P002268,2025-11-24,Poor Communication,True
+C000284,P000907,2024-06-18,Billing Confusion,True
+C000285,P006322,2023-10-07,Poor Communication,False
+C000286,P006969,2024-04-13,Billing Confusion,True
+C000287,P004408,2024-12-10,Staff Attitude,True
+C000288,P000676,2023-06-16,Long Wait Time,True
+C000289,P005063,2023-03-19,Long Wait Time,True
+C000290,P005183,2023-11-24,Staff Attitude,False
+C000291,P008833,2025-06-07,Cultural Insensitivity,True
+C000292,P002901,2024-09-28,Cultural Insensitivity,True
+C000293,P003931,2024-01-07,Long Wait Time,True
+C000294,P003781,2023-08-15,Poor Communication,True
+C000295,P000122,2024-09-09,Cultural Insensitivity,True
+C000296,P003687,2023-10-13,Long Wait Time,True
+C000297,P004317,2025-12-26,Medical Care Quality,True
+C000298,P008916,2025-11-11,Poor Communication,True
+C000299,P008372,2024-08-31,Billing Confusion,True
+C000300,P001626,2023-05-29,Poor Communication,True
+C000301,P006609,2025-03-04,Medical Care Quality,True
+C000302,P003383,2024-04-21,Long Wait Time,True
+C000303,P003420,2024-07-24,Billing Confusion,True
+C000304,P002186,2024-08-07,Billing Confusion,True
+C000305,P005127,2025-10-02,Billing Confusion,True
+C000306,P008231,2025-08-17,Billing Confusion,False
+C000307,P003027,2024-01-18,Long Wait Time,True
+C000308,P003965,2025-09-20,Long Wait Time,True
+C000309,P003712,2025-05-02,Facility Cleanliness,False
+C000310,P006963,2024-02-12,Billing Confusion,True
+C000311,P003651,2023-11-05,Facility Cleanliness,True
+C000312,P003465,2023-01-12,Long Wait Time,True
+C000313,P002007,2024-12-09,Billing Confusion,True
+C000314,P007843,2025-01-25,Medical Care Quality,False
+C000315,P008883,2023-06-14,Long Wait Time,True
+C000316,P003869,2025-01-21,Billing Confusion,False
+C000317,P007040,2025-08-10,Cultural Insensitivity,True
+C000318,P008712,2023-01-12,Billing Confusion,True
+C000319,P000483,2024-05-29,Other,True
+C000320,P001038,2024-12-28,Appointment Scheduling,True
+C000321,P002505,2024-01-22,Billing Confusion,True
+C000322,P009181,2024-04-18,Long Wait Time,True
+C000323,P009290,2023-01-23,Staff Attitude,True
+C000324,P006392,2024-08-15,Long Wait Time,True
+C000325,P006436,2024-03-24,Billing Confusion,True
+C000326,P009570,2024-05-27,Cultural Insensitivity,True
+C000327,P002162,2024-07-11,Long Wait Time,True
+C000328,P000464,2023-08-17,Facility Cleanliness,True
+C000329,P007322,2025-01-10,Billing Confusion,False
+C000330,P007781,2025-11-13,Cultural Insensitivity,True
+C000331,P000246,2023-10-20,Billing Confusion,True
+C000332,P003335,2025-03-07,Appointment Scheduling,True
+C000333,P006945,2025-11-23,Long Wait Time,True
+C000334,P004706,2025-08-21,Poor Communication,True
+C000335,P006118,2024-08-22,Billing Confusion,True
+C000336,P003221,2024-08-19,Appointment Scheduling,True
+C000337,P001395,2024-03-27,Staff Attitude,True
+C000338,P006509,2024-05-04,Long Wait Time,True
+C000339,P004975,2025-10-05,Billing Confusion,True
+C000340,P001038,2024-02-27,Cultural Insensitivity,True
+C000341,P001994,2023-08-17,Billing Confusion,True
+C000342,P001222,2024-06-22,Billing Confusion,True
+C000343,P009050,2023-01-24,Appointment Scheduling,True
+C000344,P003372,2023-10-20,Medical Care Quality,True
+C000345,P007330,2023-02-13,Other,True
+C000346,P003540,2024-04-10,Long Wait Time,True
+C000347,P004065,2023-02-11,Cultural Insensitivity,True
+C000348,P002872,2023-04-14,Staff Attitude,True
+C000349,P002986,2023-08-06,Medical Care Quality,False
+C000350,P001038,2023-01-16,Billing Confusion,True
+C000351,P005317,2024-03-30,Appointment Scheduling,True
+C000352,P004319,2023-07-05,Medical Care Quality,False
+C000353,P001588,2023-05-24,Billing Confusion,False
+C000354,P003040,2023-08-26,Billing Confusion,True
+C000355,P000996,2024-09-05,Long Wait Time,True
+C000356,P003349,2023-01-26,Long Wait Time,False
+C000357,P005163,2025-10-03,Long Wait Time,False
+C000358,P007755,2024-12-06,Long Wait Time,True
+C000359,P005445,2025-02-04,Billing Confusion,True
+C000360,P006965,2025-08-16,Staff Attitude,True
+C000361,P003981,2025-06-13,Poor Communication,True
+C000362,P009141,2023-12-11,Long Wait Time,True
+C000363,P007858,2023-05-28,Long Wait Time,False
+C000364,P004331,2025-05-02,Poor Communication,True
+C000365,P008399,2024-03-16,Long Wait Time,True
+C000366,P001987,2024-05-31,Billing Confusion,True
+C000367,P001626,2025-11-02,Long Wait Time,True
+C000368,P007891,2024-09-17,Long Wait Time,True
+C000369,P000279,2024-08-12,Poor Communication,True
+C000370,P008660,2024-04-24,Appointment Scheduling,True
+C000371,P004132,2023-05-02,Long Wait Time,True
+C000372,P008662,2024-11-14,Staff Attitude,True
+C000373,P008224,2024-03-12,Appointment Scheduling,True
+C000374,P008968,2024-09-08,Billing Confusion,True
+C000375,P007305,2024-06-18,Medical Care Quality,False
+C000376,P002342,2025-09-07,Billing Confusion,True
+C000377,P005089,2024-11-20,Billing Confusion,True
+C000378,P001085,2024-12-27,Appointment Scheduling,True
+C000379,P004789,2023-02-13,Cultural Insensitivity,True
+C000380,P008789,2025-11-20,Appointment Scheduling,True
+C000381,P000357,2023-10-30,Facility Cleanliness,True
+C000382,P009628,2024-04-14,Medical Care Quality,True
+C000383,P005813,2023-10-25,Long Wait Time,True
+C000384,P006338,2025-12-17,Long Wait Time,True
+C000385,P003471,2025-12-28,Long Wait Time,True
+C000386,P007330,2023-07-19,Poor Communication,True
+C000387,P003523,2025-03-18,Billing Confusion,False
+C000388,P001476,2023-06-14,Long Wait Time,True
+C000389,P004659,2024-04-22,Billing Confusion,True
+C000390,P002316,2025-07-25,Medical Care Quality,True
+C000391,P002180,2023-06-24,Long Wait Time,True
+C000392,P009629,2024-10-31,Long Wait Time,True
+C000393,P003890,2025-11-21,Appointment Scheduling,False
+C000394,P000205,2023-03-01,Billing Confusion,False
+C000395,P006201,2025-10-01,Long Wait Time,True
+C000396,P007526,2024-04-07,Billing Confusion,True
+C000397,P003164,2023-10-21,Billing Confusion,True
+C000398,P004535,2025-09-19,Long Wait Time,True
+C000399,P000333,2023-09-07,Long Wait Time,True
+C000400,P008968,2024-09-21,Billing Confusion,True
+C000401,P004273,2025-02-18,Billing Confusion,True
+C000402,P005969,2024-04-02,Billing Confusion,True
+C000403,P009935,2024-12-15,Long Wait Time,True
+C000404,P004696,2024-12-03,Poor Communication,True
+C000405,P003738,2024-08-25,Long Wait Time,True
+C000406,P004744,2023-10-19,Other,True
+C000407,P009314,2025-12-29,Poor Communication,True
+C000408,P005003,2024-09-17,Other,True
+C000409,P002576,2025-06-09,Staff Attitude,True
+C000410,P000033,2025-11-30,Long Wait Time,True
+C000411,P007918,2025-04-28,Billing Confusion,True
+C000412,P000739,2024-03-15,Billing Confusion,True
+C000413,P000776,2025-06-28,Long Wait Time,True
+C000414,P007104,2023-12-29,Appointment Scheduling,True
+C000415,P007940,2023-04-18,Long Wait Time,True
+C000416,P008815,2024-03-04,Appointment Scheduling,True
+C000417,P009352,2023-12-08,Medical Care Quality,True
+C000418,P006736,2024-02-13,Long Wait Time,False
+C000419,P007768,2025-12-11,Billing Confusion,True
+C000420,P006184,2024-04-01,Billing Confusion,True
+C000421,P002968,2023-11-14,Poor Communication,True
+C000422,P006611,2023-09-17,Staff Attitude,True
+C000423,P004770,2025-09-13,Other,True
+C000424,P006875,2023-05-05,Poor Communication,True
+C000425,P005968,2024-10-01,Poor Communication,True
+C000426,P008791,2024-06-19,Staff Attitude,False
+C000427,P009808,2024-05-04,Facility Cleanliness,True
+C000428,P002394,2023-10-15,Staff Attitude,True
+C000429,P001258,2025-09-03,Long Wait Time,True
+C000430,P008105,2024-08-22,Billing Confusion,True
+C000431,P002643,2023-02-28,Appointment Scheduling,True
+C000432,P005769,2023-11-24,Billing Confusion,True
+C000433,P001792,2025-02-16,Staff Attitude,False
+C000434,P006489,2024-12-23,Billing Confusion,False
+C000435,P009066,2024-12-03,Medical Care Quality,True
+C000436,P005723,2024-10-24,Staff Attitude,True
+C000437,P007182,2024-01-05,Staff Attitude,True
+C000438,P001800,2024-06-21,Long Wait Time,True
+C000439,P003840,2025-01-21,Medical Care Quality,True
+C000440,P003908,2023-04-14,Staff Attitude,True
+C000441,P005997,2023-12-05,Poor Communication,True
+C000442,P007070,2024-04-27,Billing Confusion,True
+C000443,P009442,2024-05-22,Long Wait Time,True
+C000444,P005387,2023-09-05,Long Wait Time,True
+C000445,P003239,2023-03-01,Billing Confusion,True
+C000446,P004937,2025-11-05,Appointment Scheduling,True
+C000447,P007915,2023-07-23,Cultural Insensitivity,True
+C000448,P002342,2025-10-29,Billing Confusion,True
+C000449,P004940,2024-12-26,Poor Communication,True
+C000450,P007879,2024-07-26,Poor Communication,True
+C000451,P007156,2023-02-18,Billing Confusion,True
+C000452,P004761,2024-10-29,Long Wait Time,False
+C000453,P007633,2023-07-10,Billing Confusion,True
+C000454,P007147,2024-06-02,Billing Confusion,True
+C000455,P001462,2024-04-27,Billing Confusion,True
+C000456,P001322,2025-11-23,Billing Confusion,False
+C000457,P007060,2025-12-04,Staff Attitude,True
+C000458,P003479,2023-12-27,Billing Confusion,True
+C000459,P007191,2025-08-28,Other,True
+C000460,P009338,2024-04-06,Poor Communication,True
+C000461,P008032,2025-09-26,Billing Confusion,True
+C000462,P003678,2024-06-29,Billing Confusion,True
+C000463,P003694,2023-04-05,Long Wait Time,True
+C000464,P001666,2024-06-14,Appointment Scheduling,True
+C000465,P006852,2024-07-27,Billing Confusion,True
+C000466,P007555,2025-10-15,Cultural Insensitivity,True
+C000467,P001730,2023-07-06,Billing Confusion,True
+C000468,P007120,2025-12-29,Long Wait Time,True
+C000469,P004043,2023-05-16,Medical Care Quality,True
+C000470,P004480,2024-02-18,Appointment Scheduling,False
+C000471,P003273,2023-10-23,Staff Attitude,True
+C000472,P000098,2024-08-29,Billing Confusion,True
+C000473,P008978,2023-03-20,Staff Attitude,True
+C000474,P003448,2025-04-12,Facility Cleanliness,True
+C000475,P002267,2023-11-03,Medical Care Quality,True
+C000476,P001397,2023-05-27,Long Wait Time,True
+C000477,P005878,2024-08-06,Staff Attitude,True
+C000478,P007412,2025-04-17,Appointment Scheduling,True
+C000479,P009838,2023-07-14,Staff Attitude,True
+C000480,P004831,2024-04-20,Long Wait Time,True
+C000481,P005442,2024-03-19,Long Wait Time,True
+C000482,P009859,2024-12-20,Medical Care Quality,True
+C000483,P005503,2024-06-17,Long Wait Time,False
+C000484,P005776,2025-06-15,Facility Cleanliness,True
+C000485,P009887,2024-01-23,Appointment Scheduling,True
+C000486,P002690,2024-05-21,Poor Communication,True
+C000487,P000824,2025-08-24,Medical Care Quality,True
+C000488,P005570,2023-05-01,Poor Communication,True
+C000489,P004226,2023-12-12,Medical Care Quality,True
+C000490,P004682,2024-10-20,Long Wait Time,True
+C000491,P007672,2024-10-21,Appointment Scheduling,True
+C000492,P008401,2024-12-11,Medical Care Quality,False
+C000493,P000437,2025-03-11,Billing Confusion,True
+C000494,P008286,2024-01-27,Appointment Scheduling,True
+C000495,P006186,2024-08-18,Other,True
+C000496,P001576,2023-09-03,Long Wait Time,True
+C000497,P000517,2024-06-27,Billing Confusion,True
+C000498,P005645,2023-08-23,Staff Attitude,True
+C000499,P005607,2024-12-24,Long Wait Time,True
+C000500,P002934,2025-08-06,Facility Cleanliness,True
+C000501,P002418,2025-07-19,Medical Care Quality,False
+C000502,P009850,2023-08-15,Long Wait Time,True
+C000503,P005457,2023-04-26,Billing Confusion,True
+C000504,P005643,2025-07-10,Billing Confusion,True
+C000505,P009154,2024-05-30,Poor Communication,True
+C000506,P008816,2023-10-04,Poor Communication,True
+C000507,P004268,2023-10-22,Cultural Insensitivity,True
+C000508,P002050,2024-01-22,Long Wait Time,True
+C000509,P006549,2025-05-28,Billing Confusion,True
+C000510,P007085,2025-04-28,Staff Attitude,True
+C000511,P008166,2025-01-08,Billing Confusion,True
+C000512,P005448,2023-10-07,Long Wait Time,True
+C000513,P005569,2025-12-26,Billing Confusion,True
+C000514,P007514,2025-01-18,Staff Attitude,True
+C000515,P008851,2023-08-04,Billing Confusion,True
+C000516,P003447,2024-06-14,Long Wait Time,True
+C000517,P000617,2023-08-06,Billing Confusion,True
+C000518,P007351,2023-01-01,Long Wait Time,True
+C000519,P002272,2025-11-15,Poor Communication,False
+C000520,P004757,2024-01-05,Billing Confusion,True
+C000521,P006599,2025-07-06,Billing Confusion,True
+C000522,P000168,2024-07-23,Medical Care Quality,True
+C000523,P005990,2024-10-11,Billing Confusion,True
+C000524,P001285,2025-07-15,Long Wait Time,True
+C000525,P001658,2024-07-17,Billing Confusion,True
+C000526,P003207,2025-02-03,Poor Communication,True
+C000527,P009838,2025-04-22,Appointment Scheduling,True
+C000528,P007322,2024-12-15,Billing Confusion,True
+C000529,P009962,2023-11-04,Billing Confusion,True
+C000530,P001595,2025-01-30,Facility Cleanliness,True
+C000531,P009889,2023-02-06,Billing Confusion,True
+C000532,P000746,2025-09-26,Billing Confusion,True
+C000533,P008058,2025-05-29,Long Wait Time,False
+C000534,P006681,2024-01-25,Poor Communication,True
+C000535,P002777,2024-04-09,Billing Confusion,True
+C000536,P009827,2025-08-30,Facility Cleanliness,True
+C000537,P008579,2024-04-17,Medical Care Quality,True
+C000538,P001204,2025-04-30,Poor Communication,True
+C000539,P009143,2024-08-13,Poor Communication,False
+C000540,P008428,2024-02-17,Appointment Scheduling,True
+C000541,P005358,2025-02-04,Appointment Scheduling,True
+C000542,P004322,2024-04-17,Staff Attitude,True
+C000543,P004835,2025-10-11,Appointment Scheduling,True
+C000544,P008357,2023-08-18,Billing Confusion,True
+C000545,P001226,2024-01-06,Staff Attitude,True
+C000546,P005955,2023-07-20,Long Wait Time,False
+C000547,P000079,2024-08-21,Long Wait Time,True
+C000548,P006061,2025-03-18,Staff Attitude,True
+C000549,P005872,2024-05-14,Billing Confusion,True
+C000550,P005824,2023-04-19,Staff Attitude,False
+C000551,P005488,2025-10-19,Poor Communication,True
+C000552,P004224,2023-05-03,Medical Care Quality,False
+C000553,P003137,2023-04-29,Appointment Scheduling,False
+C000554,P000473,2024-11-04,Poor Communication,True
+C000555,P001266,2025-12-22,Billing Confusion,True
+C000556,P005840,2024-02-27,Poor Communication,True
+C000557,P000318,2023-02-12,Poor Communication,True
+C000558,P001781,2024-06-10,Poor Communication,True
+C000559,P006035,2023-12-18,Appointment Scheduling,False
+C000560,P001591,2025-03-14,Appointment Scheduling,True
+C000561,P006195,2024-03-20,Staff Attitude,True
+C000562,P007241,2023-11-02,Appointment Scheduling,False
+C000563,P009517,2024-05-05,Billing Confusion,True
+C000564,P000473,2023-05-16,Billing Confusion,False
+C000565,P007103,2023-04-12,Long Wait Time,False
+C000566,P002189,2023-12-29,Facility Cleanliness,True
+C000567,P007297,2025-04-06,Poor Communication,True
+C000568,P007206,2025-01-05,Cultural Insensitivity,True
+C000569,P006512,2024-10-16,Staff Attitude,True
+C000570,P003351,2025-10-15,Long Wait Time,True
+C000571,P006879,2024-07-30,Long Wait Time,True
+C000572,P006073,2025-09-04,Other,True
+C000573,P002575,2024-06-25,Long Wait Time,True
+C000574,P005550,2024-08-19,Poor Communication,True
+C000575,P007079,2024-02-14,Appointment Scheduling,True
+C000576,P003735,2025-03-21,Long Wait Time,True
+C000577,P001697,2025-03-16,Staff Attitude,True
+C000578,P008831,2025-10-01,Facility Cleanliness,True
+C000579,P000710,2024-04-11,Billing Confusion,True
+C000580,P003531,2024-10-29,Medical Care Quality,True
+C000581,P003005,2023-10-22,Facility Cleanliness,True
+C000582,P002079,2023-07-23,Long Wait Time,True
+C000583,P008831,2025-03-30,Long Wait Time,True
+C000584,P002557,2023-02-02,Long Wait Time,True
+C000585,P004838,2025-12-01,Long Wait Time,True
+C000586,P007266,2024-05-21,Staff Attitude,True
+C000587,P003088,2024-09-02,Long Wait Time,True
+C000588,P003611,2023-04-05,Staff Attitude,False
+C000589,P004592,2023-12-08,Appointment Scheduling,True
+C000590,P008028,2025-11-05,Billing Confusion,True
+C000591,P008763,2025-07-23,Poor Communication,True
+C000592,P008499,2024-07-26,Medical Care Quality,True
+C000593,P001655,2023-01-08,Billing Confusion,True
+C000594,P009140,2024-03-09,Billing Confusion,True
+C000595,P001847,2024-02-21,Long Wait Time,False
+C000596,P008943,2024-06-29,Long Wait Time,True
+C000597,P001298,2025-03-12,Billing Confusion,True
+C000598,P000364,2024-07-26,Other,True
+C000599,P000431,2025-08-31,Medical Care Quality,False
+C000600,P002889,2024-02-07,Appointment Scheduling,False
+C000601,P007139,2025-01-15,Long Wait Time,True
+C000602,P002856,2024-03-24,Billing Confusion,True
+C000603,P006256,2024-11-19,Billing Confusion,False
+C000604,P009524,2025-03-08,Staff Attitude,True
+C000605,P001640,2023-12-02,Long Wait Time,True
+C000606,P002766,2023-08-04,Billing Confusion,True
+C000607,P004668,2024-10-26,Facility Cleanliness,True
+C000608,P009049,2024-08-19,Facility Cleanliness,True
+C000609,P007269,2023-11-03,Appointment Scheduling,True
+C000610,P006154,2025-05-03,Long Wait Time,False
+C000611,P007285,2023-10-01,Appointment Scheduling,True
+C000612,P000648,2025-04-27,Long Wait Time,True
+C000613,P005840,2025-07-19,Poor Communication,True
+C000614,P003608,2023-06-16,Medical Care Quality,True
+C000615,P005775,2025-12-12,Billing Confusion,True
+C000616,P008196,2023-11-20,Staff Attitude,True
+C000617,P005355,2025-04-18,Appointment Scheduling,True
+C000618,P004861,2025-09-05,Billing Confusion,True
+C000619,P000943,2023-05-06,Poor Communication,True
+C000620,P000901,2023-07-03,Poor Communication,False
+C000621,P004073,2024-03-03,Long Wait Time,True
+C000622,P006514,2025-06-01,Billing Confusion,False
+C000623,P003059,2023-05-14,Medical Care Quality,True
+C000624,P001383,2023-07-08,Appointment Scheduling,True
+C000625,P009278,2025-04-24,Staff Attitude,True
+C000626,P000296,2025-03-04,Long Wait Time,True
+C000627,P007942,2025-06-18,Long Wait Time,True
+C000628,P001950,2024-03-24,Medical Care Quality,True
+C000629,P002135,2024-01-17,Long Wait Time,False
+C000630,P004000,2023-10-19,Billing Confusion,True
+C000631,P003342,2023-09-04,Billing Confusion,True
+C000632,P003335,2025-07-26,Cultural Insensitivity,False
+C000633,P004271,2025-07-06,Long Wait Time,True
+C000634,P005076,2024-12-15,Staff Attitude,True
+C000635,P008109,2024-07-21,Billing Confusion,False
+C000636,P008064,2023-05-18,Poor Communication,True
+C000637,P005750,2024-09-03,Facility Cleanliness,False
+C000638,P007643,2024-06-27,Staff Attitude,True
+C000639,P007896,2025-09-23,Medical Care Quality,True
+C000640,P000991,2025-09-08,Facility Cleanliness,True
+C000641,P009478,2024-01-01,Long Wait Time,True
+C000642,P008387,2023-02-19,Appointment Scheduling,True
+C000643,P005723,2024-07-27,Poor Communication,True
+C000644,P007162,2024-11-30,Facility Cleanliness,False
+C000645,P003898,2024-04-06,Appointment Scheduling,True
+C000646,P007253,2024-04-03,Poor Communication,True
+C000647,P001486,2025-06-25,Staff Attitude,True
+C000648,P004861,2025-03-04,Appointment Scheduling,True
+C000649,P008809,2025-07-23,Long Wait Time,True
+C000650,P006574,2023-07-27,Billing Confusion,False
+C000651,P003871,2025-06-10,Medical Care Quality,True
+C000652,P008093,2023-10-09,Other,True
+C000653,P002119,2025-07-31,Billing Confusion,True
+C000654,P001640,2025-03-27,Staff Attitude,True
+C000655,P007006,2023-11-04,Long Wait Time,True
+C000656,P004583,2024-07-13,Staff Attitude,True
+C000657,P008214,2024-05-16,Long Wait Time,True
+C000658,P005158,2025-04-18,Staff Attitude,True
+C000659,P002322,2023-04-13,Billing Confusion,True
+C000660,P001848,2025-04-01,Long Wait Time,True
+C000661,P003227,2024-03-28,Billing Confusion,True
+C000662,P004144,2023-03-21,Poor Communication,False
+C000663,P005320,2023-03-21,Appointment Scheduling,True
+C000664,P009099,2025-08-11,Other,True
+C000665,P008735,2025-12-22,Poor Communication,True
+C000666,P005790,2023-12-21,Poor Communication,True
+C000667,P002217,2024-03-01,Poor Communication,True
+C000668,P007837,2024-03-18,Long Wait Time,True
+C000669,P009158,2023-06-06,Billing Confusion,True
+C000670,P004075,2025-08-28,Poor Communication,True
+C000671,P000591,2025-10-21,Poor Communication,False
+C000672,P002340,2025-10-01,Appointment Scheduling,False
+C000673,P008952,2024-02-23,Cultural Insensitivity,True
+C000674,P000677,2025-01-17,Appointment Scheduling,True
+C000675,P001908,2025-05-07,Poor Communication,True
+C000676,P003252,2024-03-28,Billing Confusion,True
+C000677,P000419,2024-01-15,Long Wait Time,True
+C000678,P000371,2023-06-02,Long Wait Time,True
+C000679,P005889,2023-08-11,Billing Confusion,True
+C000680,P007430,2025-10-28,Long Wait Time,True
+C000681,P007220,2025-07-18,Poor Communication,True
+C000682,P006716,2023-07-31,Staff Attitude,False
+C000683,P004549,2025-02-25,Poor Communication,True
+C000684,P007951,2023-10-18,Billing Confusion,True
+C000685,P005951,2025-02-23,Staff Attitude,True
+C000686,P008967,2025-12-13,Appointment Scheduling,True
+C000687,P005856,2025-09-04,Staff Attitude,True
+C000688,P003387,2025-06-15,Billing Confusion,True
+C000689,P001572,2024-03-26,Other,True
+C000690,P003845,2024-11-03,Billing Confusion,True
+C000691,P007266,2023-08-28,Long Wait Time,True
+C000692,P002310,2023-04-09,Billing Confusion,True
+C000693,P007380,2024-12-24,Cultural Insensitivity,True
+C000694,P003471,2025-08-04,Medical Care Quality,True
+C000695,P009516,2024-03-10,Appointment Scheduling,True
+C000696,P000028,2024-09-04,Billing Confusion,True
+C000697,P002016,2024-09-06,Cultural Insensitivity,True
+C000698,P005468,2025-04-23,Facility Cleanliness,True
+C000699,P002808,2025-12-07,Appointment Scheduling,True
+C000700,P008073,2024-12-03,Billing Confusion,True
+C000701,P008700,2023-01-05,Staff Attitude,True
+C000702,P007514,2023-03-17,Appointment Scheduling,True
+C000703,P003019,2024-08-25,Medical Care Quality,True
+C000704,P004438,2025-07-07,Billing Confusion,True
+C000705,P001740,2024-06-18,Staff Attitude,True
+C000706,P002603,2025-07-24,Staff Attitude,False
+C000707,P000756,2023-12-02,Staff Attitude,True
+C000708,P008815,2024-04-24,Billing Confusion,True
+C000709,P003196,2025-03-27,Billing Confusion,True
+C000710,P009720,2023-07-23,Billing Confusion,True
+C000711,P008489,2025-03-05,Appointment Scheduling,True
+C000712,P007947,2025-04-22,Billing Confusion,True
+C000713,P009173,2023-11-12,Billing Confusion,True
+C000714,P004840,2023-03-25,Long Wait Time,True
+C000715,P009914,2025-06-30,Billing Confusion,True
+C000716,P005999,2023-09-29,Poor Communication,True
+C000717,P008025,2025-03-17,Long Wait Time,False
+C000718,P009668,2025-02-23,Billing Confusion,True
+C000719,P002599,2024-04-20,Billing Confusion,True
+C000720,P001139,2025-05-24,Poor Communication,False
+C000721,P009616,2025-09-30,Cultural Insensitivity,True
+C000722,P005464,2025-07-16,Long Wait Time,True
+C000723,P000821,2025-05-25,Billing Confusion,True
+C000724,P008585,2024-04-17,Billing Confusion,True
+C000725,P001883,2025-02-07,Billing Confusion,True
+C000726,P008983,2025-02-28,Medical Care Quality,True
+C000727,P004678,2024-04-16,Staff Attitude,False
+C000728,P003819,2025-02-01,Long Wait Time,True
+C000729,P006034,2023-09-20,Appointment Scheduling,False
+C000730,P002263,2025-08-31,Long Wait Time,True
+C000731,P003852,2024-05-03,Long Wait Time,False
+C000732,P006644,2025-04-05,Long Wait Time,False
+C000733,P003855,2023-01-24,Cultural Insensitivity,True
+C000734,P006796,2023-02-07,Appointment Scheduling,True
+C000735,P003615,2025-07-16,Appointment Scheduling,True
+C000736,P007627,2025-01-09,Facility Cleanliness,True
+C000737,P003892,2025-01-23,Medical Care Quality,True
+C000738,P001056,2023-01-23,Long Wait Time,True
+C000739,P008699,2024-06-09,Billing Confusion,True
+C000740,P000788,2023-01-19,Staff Attitude,True
+C000741,P001931,2024-07-18,Long Wait Time,True
+C000742,P003598,2023-08-22,Long Wait Time,True
+C000743,P002335,2024-02-05,Poor Communication,False
+C000744,P009454,2025-11-11,Medical Care Quality,True
+C000745,P007241,2024-04-18,Staff Attitude,True
+C000746,P002996,2025-10-22,Medical Care Quality,True
+C000747,P006290,2023-04-15,Staff Attitude,True
+C000748,P000570,2023-07-20,Billing Confusion,True
+C000749,P001311,2023-05-16,Billing Confusion,True
+C000750,P005963,2025-07-29,Poor Communication,True
+C000751,P007660,2024-10-11,Medical Care Quality,True
+C000752,P007609,2023-11-02,Poor Communication,True
+C000753,P009337,2023-09-26,Long Wait Time,True
+C000754,P004585,2023-01-10,Staff Attitude,False
+C000755,P009860,2025-08-18,Facility Cleanliness,True
+C000756,P001829,2023-01-25,Other,True
+C000757,P006690,2025-10-15,Billing Confusion,True
+C000758,P005781,2025-09-16,Long Wait Time,True
+C000759,P005192,2025-10-26,Staff Attitude,True
+C000760,P004782,2025-04-03,Billing Confusion,True
+C000761,P006058,2023-09-11,Billing Confusion,True
+C000762,P005499,2025-11-23,Billing Confusion,False
+C000763,P008426,2023-12-23,Poor Communication,True
+C000764,P000075,2025-02-04,Billing Confusion,True
+C000765,P007408,2025-04-28,Billing Confusion,True
+C000766,P002636,2023-05-21,Medical Care Quality,True
+C000767,P002662,2025-04-28,Cultural Insensitivity,False
+C000768,P003434,2025-05-23,Medical Care Quality,True
+C000769,P005409,2024-06-18,Medical Care Quality,True
+C000770,P003931,2023-03-24,Medical Care Quality,True
+C000771,P000341,2023-12-17,Cultural Insensitivity,True
+C000772,P001954,2023-01-08,Staff Attitude,True
+C000773,P002912,2023-09-26,Appointment Scheduling,True
+C000774,P004975,2023-02-23,Billing Confusion,True
+C000775,P007887,2023-10-24,Poor Communication,True
+C000776,P006243,2023-12-16,Billing Confusion,True
+C000777,P001594,2024-01-03,Billing Confusion,True
+C000778,P000833,2024-09-08,Long Wait Time,False
+C000779,P002015,2024-08-25,Long Wait Time,False
+C000780,P005543,2025-03-05,Appointment Scheduling,True
+C000781,P002597,2025-06-06,Poor Communication,True
+C000782,P009523,2023-06-20,Billing Confusion,True
+C000783,P005517,2025-04-26,Billing Confusion,True
+C000784,P000362,2024-10-29,Staff Attitude,True
+C000785,P009319,2023-07-09,Billing Confusion,False
+C000786,P007157,2025-08-26,Poor Communication,True
+C000787,P005640,2025-01-06,Billing Confusion,True
+C000788,P003396,2025-06-05,Other,True
+C000789,P009796,2025-03-26,Long Wait Time,True
+C000790,P007749,2025-04-18,Poor Communication,True
+C000791,P008108,2024-01-11,Other,False
+C000792,P006017,2025-04-06,Appointment Scheduling,True
+C000793,P003714,2024-12-27,Billing Confusion,True
+C000794,P000397,2025-10-16,Staff Attitude,True
+C000795,P006373,2023-04-18,Medical Care Quality,True
+C000796,P005823,2024-09-03,Staff Attitude,True
+C000797,P005048,2024-03-23,Facility Cleanliness,True
+C000798,P009888,2025-12-21,Poor Communication,True
+C000799,P002475,2024-02-16,Appointment Scheduling,False
+C000800,P001461,2024-02-08,Poor Communication,True
