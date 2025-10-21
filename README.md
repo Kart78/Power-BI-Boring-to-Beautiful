@@ -1,4 +1,4 @@
-# POC
+# Power BI
 🧠 Power BI Dashboard Project — Data Visualization & KPI Insights
 
 This repository contains a Power BI (.pbix) project built using Python integration, DAX calculations, and custom theme templates for an enhanced visual experience.
